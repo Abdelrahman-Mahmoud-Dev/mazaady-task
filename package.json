@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "mazzaady-task",
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare"
+    },
+    "devDependencies": {
+        "@nuxtjs/color-mode": "^3.2.0",
+        "@nuxtjs/tailwindcss": "^6.4.0",
+        "@pinia/nuxt": "^0.4.6",
+        "@vueuse/nuxt": "^10.0.2",
+        "nuxt": "3.6.5"
+    },
+    "dependencies": {
+        "@tailwindcss/forms": "^0.5.7",
+        "axios": "^1.6.2"
+    }
+}
