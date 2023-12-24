@@ -1,4 +1,4 @@
-# mazzadt-task
+# mazaady-task
 
 
 ## Documentation
